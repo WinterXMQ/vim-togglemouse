@@ -23,5 +23,5 @@ to change to another key.  It autodetects whether it has been remapped and won't
 the `<F10>` key if so.
 
 ```vimrc
-set g:toggle_mouse_key = '<F8>'
+let g:toggle_mouse_key = '<F8>'
 ```
